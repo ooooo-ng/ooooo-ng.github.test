@@ -7,6 +7,8 @@
   "name": "PWA Sample Name",
   "short_name": "PWA Sample Short Name",
   "description": "This is PWA Sample",
+  "prefer_related_applications": false,
+
   "icons": [
     {
       "src": "./icons/icon-192x192.png",
